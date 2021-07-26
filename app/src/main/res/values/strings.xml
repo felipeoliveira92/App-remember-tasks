@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AppRememberTasks</string>
+    <string name="label_new_task">Criar Tarefa</string>
+    <string name="label_tittle">Titulo</string>
 </resources>
