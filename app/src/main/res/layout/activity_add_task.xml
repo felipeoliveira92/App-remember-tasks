@@ -94,7 +94,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="@android:string/cancel"
-        android:textAllCaps="false">
+        android:textAllCaps="false"
+        android:id="@+id/btnCancel">
 
     </com.google.android.material.button.MaterialButton>
 
